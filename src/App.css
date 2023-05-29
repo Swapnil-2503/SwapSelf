@@ -91,6 +91,73 @@ li button:hover {
 .next-level button:hover {
   background-color: #00994d;
 }
+/* App.css */
+
+/* Navbar styles */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 20px;
+}
+
+.logo {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.nav-links a {
+  color: #00a4a6;;
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #a62100;
+}
+
+/* Points display styles */
+.points {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #333;
+}
+
+/* Task list styles (you can customize this further) */
+.task-list {
+  padding: 20px;
+}
+
+.task {
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.task .title {
+  font-weight: bold;
+}
+
+.task .description {
+  margin-top: 5px;
+  color: #777;
+}
+
+.task .points {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
 
 @keyframes task-complete {
   0% {
@@ -103,3 +170,104 @@ li button:hover {
     transform: translate(-50%, -50%) scale(1);
   }
 }
+/* App.css */
+
+/* Navbar */
+nav {
+  background-color: #333;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  color: #000;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+/* Header */
+h1 {
+  color: #333;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #666;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Task List */
+.task {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.task-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.task-description {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.task-completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.task-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.task-actions button {
+  background-color: #555;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.task-actions button:hover {
+  background-color: #333;
+}
+
+/* Info */
+.info {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.info-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.info-content {
+  line-height: 1.5;
+}
+

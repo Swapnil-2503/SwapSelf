@@ -9,7 +9,7 @@ function TaskList({ tasks, onTaskComplete }) {
           <h3>{task.title}</h3>
           <p>{task.description}</p>
           {task.completed ? (
-            <span>Completed</span>
+            <span>Completed </span>
           ) : (
             <button onClick={() => onTaskComplete(task.id)}>Complete</button>
           )}
