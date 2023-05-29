@@ -16,8 +16,8 @@ This project was developed as a personal initiative by [Your Name] to provide a 
 
 To run the Confidence Builder application locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd confidence-builder`
+1. Clone the repository: `git clone [https://github.com/Swapnil-2503/SwapSelf]`
+2. Navigate to the project directory: `cd SwapSelf`
 3. Open the `index.html` file in your web browser.
 4. Start completing the daily tasks and building your confidence!
 
