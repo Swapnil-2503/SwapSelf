@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SwapSelf/static/css/main.2a60391b.css",
+    "main.js": "/SwapSelf/static/js/main.8bc71c42.js",
+    "static/js/787.29a6eb23.chunk.js": "/SwapSelf/static/js/787.29a6eb23.chunk.js",
+    "index.html": "/SwapSelf/index.html",
+    "main.2a60391b.css.map": "/SwapSelf/static/css/main.2a60391b.css.map",
+    "main.8bc71c42.js.map": "/SwapSelf/static/js/main.8bc71c42.js.map",
+    "787.29a6eb23.chunk.js.map": "/SwapSelf/static/js/787.29a6eb23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a60391b.css",
+    "static/js/main.8bc71c42.js"
+  ]
+}
