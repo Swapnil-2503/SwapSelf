@@ -2,7 +2,7 @@
 
 Confidence Builder is a web-based application designed to help individuals with social anxiety boost their confidence and overcome their fears in public situations. The application provides a series of daily tasks and activities that users can engage in to gradually build their self-assurance and improve their social skills.
 
-This project was developed as a personal initiative by [Your Name] to provide a fun activity and support system for individuals, including myself, who experience social anxiety. It aims to create a safe and encouraging environment for practicing and developing social skills.
+This project was developed as a personal initiative by me to provide a fun activity and support system for individuals, including myself, who experience social anxiety. It aims to create a safe and encouraging environment for practicing and developing social skills.
 
 ## Features
 
