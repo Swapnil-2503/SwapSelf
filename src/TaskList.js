@@ -3,9 +3,9 @@ import React from 'react';
 
 function TaskList({ tasks, onTaskComplete }) {
   return (
-    <ul>
+    <ul className='task-container'>
       {tasks.map((task) => (
-        <li key={task.id}>
+        <li key={task.id} className='task'>
           <h3>{task.title}</h3>
           <p>{task.description}</p>
           {task.completed ? (
