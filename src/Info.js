@@ -2,8 +2,8 @@ import React from 'react';
 
 function Info() {
   return (
-    <div>
-      <h1>Information</h1>
+    <div className='info'>
+      <h2>Information</h2>
       <p>This project aims self improvement for individual seeking help to get diciplined.</p>
       <ul>
         <li>Every day new tasks will be displayed that user need to complete and all data is stored in local storage.</li>
