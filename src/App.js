@@ -178,7 +178,7 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">SwapSelf</Link>
+              <Link to="/">Tasks</Link>
             </li>
             <li>
               <Link to="/info">Info</Link>
