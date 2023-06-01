@@ -173,8 +173,8 @@ function App() {
     <div className='App'>
       <Router>
         <h1>SwapSelf</h1>
-        <h2>Points: {points}</h2>
-        <h2>Level: {level}</h2>
+        <h2>Points - {points}</h2>
+        <h2>Level - {level}</h2>
         <nav>
           <ul>
             <li>

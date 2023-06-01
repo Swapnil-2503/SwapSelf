@@ -2,7 +2,7 @@
 
 Confidence Builder is a web-based application designed to help individuals with social anxiety boost their confidence and overcome their fears in public situations. The application provides a series of daily tasks and activities that users can engage in to gradually build their self-assurance and improve their social skills.
 
-This project was developed as a personal initiative by [Your Name] to provide a fun activity and support system for individuals, including myself, who experience social anxiety. It aims to create a safe and encouraging environment for practicing and developing social skills.
+This project was developed as a personal initiative by me to provide a fun activity and support system for individuals, including myself, who experience social anxiety. It aims to create a safe and encouraging environment for practicing and developing social skills.
 
 ## Features
 
@@ -16,8 +16,8 @@ This project was developed as a personal initiative by [Your Name] to provide a 
 
 To run the Confidence Builder application locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd confidence-builder`
+1. Clone the repository: `git clone [https://github.com/Swapnil-2503/SwapSelf]`
+2. Navigate to the project directory: `cd SwapSelf`
 3. Open the `index.html` file in your web browser.
 4. Start completing the daily tasks and building your confidence!
 
